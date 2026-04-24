@@ -1,0 +1,44 @@
+Questionnaire,Model,Category,Category MAE,LLM known representation Categ
+FCQ,deepseek-r1_32b_FCQ,Convenience,0.90,0.96
+FCQ,deepseek-r1_32b_FCQ,Ethical Concern,1.38,0.77
+FCQ,deepseek-r1_32b_FCQ,Familiarity,1.32,1.82
+FCQ,deepseek-r1_32b_FCQ,Health,0.50,0.19
+FCQ,deepseek-r1_32b_FCQ,Mood,1.00,0.38
+FCQ,deepseek-r1_32b_FCQ,Natural Content,1.00,0.86
+FCQ,deepseek-r1_32b_FCQ,Price,0.78,0.86
+FCQ,deepseek-r1_32b_FCQ,Sensory Appeal,0.60,1.92
+FCQ,deepseek-r1_32b_FCQ,Weight Control,0.40,0.48
+FCQ,deepseek-r1_70b_FCQ,Convenience,0.64,3.45
+FCQ,deepseek-r1_70b_FCQ,Ethical Concern,1.91,1.05
+FCQ,deepseek-r1_70b_FCQ,Familiarity,1.49,6.90
+FCQ,deepseek-r1_70b_FCQ,Mood,1.29,2.30
+FCQ,deepseek-r1_70b_FCQ,Price,1.07,1.34
+FCQ,deepseek-r1_70b_FCQ,Sensory Appeal,0.42,6.42
+FCQ,deepseek-r1_70b_FCQ,Weight Control,1.06,5.08
+FCQ,llama3.1_8b_FCQ,Convenience,0.96,2.39
+FCQ,llama3.1_8b_FCQ,Ethical Concern,1.60,0.48
+FCQ,llama3.1_8b_FCQ,Familiarity,1.39,3.16
+FCQ,llama3.1_8b_FCQ,Health,0.87,5.27
+FCQ,llama3.1_8b_FCQ,Mood,1.39,1.72
+FCQ,llama3.1_8b_FCQ,Natural Content,1.38,0.77
+FCQ,llama3.1_8b_FCQ,Price,0.71,0.67
+FCQ,llama3.1_8b_FCQ,Sensory Appeal,0.64,3.16
+FCQ,llama3.1_8b_FCQ,Weight Control,1.21,1.82
+FCQ,qwen2.5_32b_FCQ,Convenience,0.65,4.12
+FCQ,qwen2.5_32b_FCQ,Ethical Concern,0.97,3.07
+FCQ,qwen2.5_32b_FCQ,Familiarity,0.97,7.47
+FCQ,qwen2.5_32b_FCQ,Health,1.18,1.63
+FCQ,qwen2.5_32b_FCQ,Mood,0.69,1.25
+FCQ,qwen2.5_32b_FCQ,Natural Content,0.50,0.77
+FCQ,qwen2.5_32b_FCQ,Price,1.00,0.96
+FCQ,qwen2.5_32b_FCQ,Sensory Appeal,0.52,8.05
+FCQ,qwen2.5_32b_FCQ,Weight Control,0.74,3.64
+FCQ,qwen3_32b_FCQ,Convenience,1.00,0.19
+FCQ,qwen3_32b_FCQ,Ethical Concern,1.00,0.38
+FCQ,qwen3_32b_FCQ,Familiarity,1.29,2.30
+FCQ,qwen3_32b_FCQ,Health,1.00,0.77
+FCQ,qwen3_32b_FCQ,Mood,1.00,0.38
+FCQ,qwen3_32b_FCQ,Natural Content,1.00,0.10
+FCQ,qwen3_32b_FCQ,Price,1.00,0.10
+FCQ,qwen3_32b_FCQ,Sensory Appeal,0.33,1.72
+FCQ,qwen3_32b_FCQ,Weight Control,0.83,0.57

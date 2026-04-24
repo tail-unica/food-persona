@@ -1,0 +1,20 @@
+{
+  "name": "userstudy-food-preferences",
+  "version": "1.0.0",
+  "description": "User study toolbox for food preference research with LLM comparison",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "server": "python server/app.py"
+  },
+  "dependencies": {
+    "vue": "^3.4.0",
+    "axios": "^1.6.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.0",
+    "vite": "^5.0.0"
+  }
+}
